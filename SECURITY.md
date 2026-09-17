@@ -2,7 +2,6 @@
 
 
 
-Contacto de seguridad: Júlia
-
+Contacto de seguridad: Júlia Oliver
 Última revisión: (pendiente)
 
