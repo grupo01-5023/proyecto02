@@ -10,5 +10,5 @@
 
 | Oliver      |                  |                                   |
 
-| (miembro C) |                  |                                   |
+| Santi       |                  |                                   |
 
