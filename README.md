@@ -8,7 +8,7 @@
 
 | Júlia       |                  |                                   |
 
-| (miembro B) |                  |                                   |
+| Oliver      |                  |                                   |
 
 | (miembro C) |                  |                                   |
 
