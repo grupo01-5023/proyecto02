@@ -2,7 +2,7 @@
 
 Estado global: 2/3 completado
 
-- [Júlia] (ítem A, pendiente)
+- [Júlia] (ítem A, completado)
 - [Oliver] (ítem B, completado)
 - [Santi] (ítem C, pendiente)
 
