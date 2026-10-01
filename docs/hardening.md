@@ -6,4 +6,4 @@ Estado global: 3/3 completado
 - [Oliver] (ítem B, completado)
 - [Santi] (ítem C, completado)
 
-Ultima revision: Júlia 20:13
+Ultima revision: Oliver 19:39
