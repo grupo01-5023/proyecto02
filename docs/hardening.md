@@ -1,9 +1,8 @@
 # Checklist de hardening del servidor web
-
-Estado global: 1/3 completado
+Estado global: 3/3 completado
 
 - [Júlia] (ítem A, completado)
 - [Oliver] (ítem B, pendiente)
-- [Santi] (ítem C, pendiente)
+- [Santi] (ítem C, completado)
 
 Ultima revision: Júlia 20:13
